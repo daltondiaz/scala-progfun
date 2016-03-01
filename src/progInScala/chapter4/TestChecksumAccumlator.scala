@@ -6,5 +6,7 @@ object TestChecksumAccumlator{
     val x = new ChecksumAccumulator
     x.add(10)
     x.checksum()
+    
+    
   }
 }
